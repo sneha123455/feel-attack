@@ -1,0 +1,600 @@
+Plaintext=  a7f1d92a82c8d8fe - - K1, K2, K3, K4
+Ciphertext= 150e2afb5daa0829
+
+Plaintext=  434d98558ce2b347 - - K2, K3, K1, K4
+Ciphertext= 42f0b42b04e989d1
+
+Plaintext=  171198542f112d05 - - K1, K2, K4, K3
+Ciphertext= 0a0311feb6564f4a
+
+Plaintext=  58f56bd688079992 - - K4, K1,K2, K3
+Ciphertext= 3b27f3cca5174c46
+
+Plaintext=  48336241f30d23e5 - - K0, K2, K3, K4
+Ciphertext= 2a2a66634ed5d691
+
+Plaintext=  5f30d1c8ed610c4b - - K2, K4, K1, K3
+Ciphertext= 0a3a0048885f4b17
+
+Plaintext=  0235398184b814a2 - - K3, K1, K2, K4
+Ciphertext= ad33592df0f21dcf
+
+Plaintext=  9cb45a672acae548 - - K3, K1,K4, K0
+Ciphertext= dcf32b9dd19e09a4
+
+Plaintext=  e9c5f1b0c4158ae5 - - K4, K0, K1, K2
+Ciphertext= cac0ce52a0950361
+
+Plaintext=  9b4d39f6f7e8a105 - - K1, K4, K2, K0 
+Ciphertext= a8344725f5d01d18
+
+Plaintext=  d3feeda5d5f3d9e4 - - K2, K1, K3, K4 
+Ciphertext= 6c89973c13cc8729
+
+Plaintext=  5bfa6cc351e220ae
+Ciphertext= bded36e0c6d22846
+
+Plaintext=  0ce106986d61ff34
+Ciphertext= bd2c874760ccf8ae
+
+Plaintext=  a11e19fd3650e9b7
+Ciphertext= db551e50d6a76383
+
+Plaintext=  818fc33a1e0fc02c
+Ciphertext= f4a8d4025cc553e2
+
+Plaintext=  44557ac8ab50c9b2
+Ciphertext= 2ad822ebd631e0cf
+
+Plaintext=  deb2f6b5e24c4fdd
+Ciphertext= 7699ae16b6fd5482
+
+Plaintext=  9f8867bdce1ff261
+Ciphertext= 1b6c6d8534b69343
+
+Plaintext=  008e7897970e3462
+Ciphertext= 4f1c32a6219b937a
+
+Plaintext=  07d75e47a158298e
+Ciphertext= 74dec3dac691cefc
+
+Plaintext=  5ba2f56246869cc4
+Ciphertext= 4d8535b4b62f2967
+
+Plaintext=  2e362a02731264e6
+Ciphertext= dc3257c93e39c830
+
+Plaintext=  0687ef5309d10853
+Ciphertext= 70709adadfaf6c02
+
+Plaintext=  4f51f8658fb4f080
+Ciphertext= 22ca46c3f0ea7dbd
+
+Plaintext=  b7cb19ee9aebd718
+Ciphertext= 626761d8a17ec3d9
+
+Plaintext=  cc4fa27c8c37dfc1
+Ciphertext= 5131789deb606a6d
+
+Plaintext=  ada5d133d13abe03
+Ciphertext= b1805aadf11e4895
+
+Plaintext=  f021e9b1b78ccbd8
+Ciphertext= e2444856c37add11
+
+Plaintext=  2f7ff2b38c6d48d0
+Ciphertext= c0b026f5a9b990a1
+
+Plaintext=  1e481b2d4faf7171
+Ciphertext= 669135c973d7e41e
+
+Plaintext=  805fd7f2d39ef4c4
+Ciphertext= 63fe33360a314123
+
+Plaintext=  f19b9496e81dab81
+Ciphertext= cf6708dedd7f441e
+
+Plaintext=  93b3737e1b27d9c4
+Ciphertext= dc56350c8b0cda8b
+
+Plaintext=  3957166441b93515
+Ciphertext= ca1a7d753f515be5
+
+Plaintext=  e8f03c95d8e8ce1e
+Ciphertext= b0374157afb0de68
+
+Plaintext=  1864faad68ddfc59
+Ciphertext= a1cf1e0f3803e97e
+
+Plaintext=  32130109390b0f1f
+Ciphertext= bb39e8c913cc4f8a
+
+Plaintext=  e5ca716805f8362e
+Ciphertext= 83fab8c16e5ed9eb
+
+Plaintext=  98dccaadc86adbed
+Ciphertext= 4c332145637928ad
+
+Plaintext=  25801a9a9dcfa626
+Ciphertext= cd1e1e748e90ca2d
+
+Plaintext=  4319ddafe83a89c5
+Ciphertext= afb2709106ac2457
+
+Plaintext=  1f3c6d199d38de10
+Ciphertext= 2ae0e0710a8211c7
+
+Plaintext=  e660c37be872c3f2
+Ciphertext= a7d845c2ee4e28b4
+
+Plaintext=  b31660de8bc95902
+Ciphertext= 31bff8dcd2ef9b63
+
+Plaintext=  b9103262cdb941f7
+Ciphertext= e287ee42c1bbea5c
+
+Plaintext=  7376f5d3dbb7a3d5
+Ciphertext= 477db18395182072
+
+Plaintext=  a387797fc4819a03
+Ciphertext= 76df7f6e2456609e
+
+Plaintext=  5eca704cedb37110
+Ciphertext= 646ff280e322e3e8
+
+Plaintext=  ee7f206b0c8805aa
+Ciphertext= a7082ae8bf00edcf
+
+Plaintext=  ebf4963e7c4708ce
+Ciphertext= 49bda8f31a332fb2
+
+Plaintext=  8d4e092366e71792
+Ciphertext= 13808f2ccbdc00a6
+
+Plaintext=  a8a3b2bbcdee321b
+Ciphertext= 357c696343dda456
+
+Plaintext=  3e15380c541ef093
+Ciphertext= 7366d7f452fbf28e
+
+Plaintext=  0888969f7457afe1
+Ciphertext= 3bcdacc8fb782ac7
+
+Plaintext=  8588826a419d5831
+Ciphertext= 8b64c96a0a88421b
+
+Plaintext=  1c1784b5484eecdb
+Ciphertext= d45425c7632b9b9e
+
+Plaintext=  393f6a0aca11b91d
+Ciphertext= 88bfd2bb77724900
+
+Plaintext=  f0866b500b8dee50
+Ciphertext= c16215a14eb38a6c
+
+Plaintext=  1fd7eb9bce09a17d
+Ciphertext= 6981079ea26ba54d
+
+Plaintext=  74124b4605adfc07
+Ciphertext= 04028b51e1446b3d
+
+Plaintext=  77bed9816d8d7e84
+Ciphertext= cb625a40237fa877
+
+Plaintext=  88544a18d8045cb3
+Ciphertext= 36f032ecc4a3865a
+
+Plaintext=  283b0a752b881b5f
+Ciphertext= c52b42640b1e1b16
+
+Plaintext=  500fadb59010e63d
+Ciphertext= 6e158a8ecd1af2bc
+
+Plaintext=  1b664f8bda2dbf33
+Ciphertext= 611a295bdc1762ed
+
+Plaintext=  cb6be21c8eb3eca9
+Ciphertext= fda00df32f06b391
+
+Plaintext=  d9d5bf144c08e957
+Ciphertext= bae1957dc8a56744
+
+Plaintext=  7ed0d1e5e5608751
+Ciphertext= eb36bfb2973e3e7e
+
+Plaintext=  09b340980580473d
+Ciphertext= 209b112be1b1645a
+
+Plaintext=  bc2e689a3be838e7
+Ciphertext= f2c417002adce3b9
+
+Plaintext=  7a0a3348fe960ec9
+Ciphertext= 299bb9cd4a0f4d3b
+
+Plaintext=  bf81da36f1868ca5
+Ciphertext= 0906d330da1749f8
+
+Plaintext=  d24788fa4c0c778b
+Ciphertext= 20c275fc9f9683e0
+
+Plaintext=  f0d1231428549563
+Ciphertext= 24afe5a2d5cea7ab
+
+Plaintext=  6516cf40861b3d73
+Ciphertext= 6935f43d784e2797
+
+Plaintext=  7fd35dbb591c5b5d
+Ciphertext= be5d21283e77d7e1
+
+Plaintext=  25916eb1d86176b1
+Ciphertext= 4d73ec1bbd7ec3ab
+
+Plaintext=  4e0e67d2d03957f0
+Ciphertext= 740ad017b0a95fd3
+
+Plaintext=  cf6c87834bf32854
+Ciphertext= 2f1b5ffa2044de92
+
+Plaintext=  0588360ba7c7c5f8
+Ciphertext= e5ddc3ee36196184
+
+Plaintext=  8541634fb7bade5f
+Ciphertext= 940d4348ddf730f7
+
+Plaintext=  94ff671d1febdcbd
+Ciphertext= 64aa4f7cd7cfd43d
+
+Plaintext=  a116d2da779038ed
+Ciphertext= 12861edad05f6bc6
+
+Plaintext=  7679896c29198b26
+Ciphertext= 05ec463cad22d995
+
+Plaintext=  57b58c50ea054f64
+Ciphertext= b895af867d91c6d7
+
+Plaintext=  4f4129c8ba8d8d54
+Ciphertext= 1dd155888bca6dab
+
+Plaintext=  4b727633dd407543
+Ciphertext= 692989509a0967c0
+
+Plaintext=  98046796e038626f
+Ciphertext= 955666bc737492f3
+
+Plaintext=  ef9237ce5b615bc0
+Ciphertext= aebc15b89f9835f7
+
+Plaintext=  8677ee5abfbd85f7
+Ciphertext= c32e01e5c8f40972
+
+Plaintext=  3f7f8868cb1b5fba
+Ciphertext= 6e3822fd336db6eb
+
+Plaintext=  4c1309f16061aa13
+Ciphertext= 9274a89231128be1
+
+Plaintext=  3821fbe2a758d2bb
+Ciphertext= 5de4770334e7933d
+
+Plaintext=  e6aa040a940d41b7
+Ciphertext= fe30443de0613956
+
+Plaintext=  d3b869cee945150a
+Ciphertext= 756f340f27806e88
+
+Plaintext=  a4a40e6ff719eec2
+Ciphertext= c8723d4622947e35
+
+Plaintext=  4b2681cd5ce06b50
+Ciphertext= 5e000047ba8eabdb
+
+Plaintext=  2734365840660466
+Ciphertext= 601e5e3f5a434def
+
+Plaintext=  56d5efed73157591
+Ciphertext= 93faa1bd7e944534
+
+Plaintext=  89d68815ddb9e5f8
+Ciphertext= 696ce4ec9599cea7
+
+Plaintext=  d7fd53b6ec096616
+Ciphertext= 215740bb65658880
+
+Plaintext=  a773b9421f6704ce
+Ciphertext= 472bc2ba64523dbe
+
+Plaintext=  d36ef4e484ba0c6c
+Ciphertext= beba320994d37505
+
+Plaintext=  5a4855c71c33a54a
+Ciphertext= b6d8dfc4fdbfbaa6
+
+Plaintext=  c82be803e5cfd175
+Ciphertext= b0c535ea91fca80e
+
+Plaintext=  779fc444b7e6aa90
+Ciphertext= a778d037076cdc0b
+
+Plaintext=  01eefabebc0cf997
+Ciphertext= 8d6204a1a509a33c
+
+Plaintext=  54887c7b0a27afdd
+Ciphertext= 3bd80640c79ea9de
+
+Plaintext=  c415f8a02c5af1ef
+Ciphertext= 98fa1a6380ffc25a
+
+Plaintext=  ea26ad1e5d92b1e2
+Ciphertext= 03b02cd3d810eed3
+
+Plaintext=  9a8faf5b2186c309
+Ciphertext= 2e217e6f945c99ac
+
+Plaintext=  4f4a137bcfaa65d7
+Ciphertext= 489bfbc0dc26d35e
+
+Plaintext=  b274214db64c86f3
+Ciphertext= ad0a2cec9d0aee6d
+
+Plaintext=  085b24938e1832fb
+Ciphertext= 4f3df1c4ad23e8b9
+
+Plaintext=  310a6f064181e298
+Ciphertext= 0829420a2b494785
+
+Plaintext=  d23062abc817ba17
+Ciphertext= 0fd84397998b6420
+
+Plaintext=  3023c8c04c5c3a1e
+Ciphertext= 1b46af3a31eeb40c
+
+Plaintext=  cbf4af72372b381f
+Ciphertext= 31c5c1bad261deac
+
+Plaintext=  f69865c8f0e3c70b
+Ciphertext= c90b5abc3027e1ec
+
+Plaintext=  931c45a7419b3c44
+Ciphertext= 0da4c7b351a49f4d
+
+Plaintext=  1842ebfacc3d070a
+Ciphertext= 6d638399d1fff6a1
+
+Plaintext=  c3b433cd120b6e85
+Ciphertext= d57a646f01370e10
+
+Plaintext=  b72dadcf40b23b17
+Ciphertext= 57990f1c742174b5
+
+Plaintext=  3c34f6be1b1901f6
+Ciphertext= e571e0e7157a96de
+
+Plaintext=  621f1497b085cf8e
+Ciphertext= fd2cb9a9e685c72f
+
+Plaintext=  999d986ef8ff3a88
+Ciphertext= 2b2881c6339473cf
+
+Plaintext=  9a0238979983a868
+Ciphertext= 07117df82d176ca5
+
+Plaintext=  6f69e10ef9249a87
+Ciphertext= 7d77aecefc008b6d
+
+Plaintext=  3444c8501f19a8a7
+Ciphertext= 32b502a5a052a817
+
+Plaintext=  8670f748fa401c40
+Ciphertext= 51c54e92e761a439
+
+Plaintext=  20ae086d7157a383
+Ciphertext= b7090bdea069d8e0
+
+Plaintext=  7ec721def0d6e095
+Ciphertext= a24bade2e28fe6f4
+
+Plaintext=  928c5b78ed9b9556
+Ciphertext= c7628f1a86316f33
+
+Plaintext=  0ce33d5b22778be6
+Ciphertext= c270e70dd1bbfdcc
+
+Plaintext=  6dcef2d21878d481
+Ciphertext= 80138c5e4fa63f71
+
+Plaintext=  dff41a4dedcafdca
+Ciphertext= 5516bdab54dbacd3
+
+Plaintext=  eab4bd78629d7ec4
+Ciphertext= 769212cc14b050d7
+
+Plaintext=  0fd26f1dd954ca84
+Ciphertext= 4c8451c95bb5d837
+
+Plaintext=  a3b53b84e9903056
+Ciphertext= afe1c1dc7580eb58
+
+Plaintext=  e840837a1390f37b
+Ciphertext= 9338289a3e5ad6d8
+
+Plaintext=  b8ade799dac1e465
+Ciphertext= 7d63c9058caa9114
+
+Plaintext=  d811916547eb4b6a
+Ciphertext= a8bbea7eae9dc666
+
+Plaintext=  163082e9833634a1
+Ciphertext= 0705f5ac4701007e
+
+Plaintext=  224c54f681b8dc70
+Ciphertext= 947a59fdb3029ad8
+
+Plaintext=  a792c0cb4671d497
+Ciphertext= 051eb98d401602a4
+
+Plaintext=  0ccc80e2168ce920
+Ciphertext= 7a8a385d1dfad5b8
+
+Plaintext=  cc8fa07b1f90e989
+Ciphertext= d0bcb2af35a96627
+
+Plaintext=  8d16019913ed5b8e
+Ciphertext= d975ae39ee964752
+
+Plaintext=  e8a8de7ab6f78956
+Ciphertext= 3b73a313677601db
+
+Plaintext=  01fd20e49fd73e6f
+Ciphertext= eb409de148361433
+
+Plaintext=  5d24c0d97e678715
+Ciphertext= 71edacad0b8daaa1
+
+Plaintext=  39f0e4e32ccb6677
+Ciphertext= b3f7a7c25d20808e
+
+Plaintext=  aff03356d1f37909
+Ciphertext= 8ba22eab50bbdf42
+
+Plaintext=  45e94039e51a63b3
+Ciphertext= ef45b05e0d243876
+
+Plaintext=  c840b74e3053d95c
+Ciphertext= d0e3902b2da390b1
+
+Plaintext=  a71c0d3ac20a9065
+Ciphertext= a5573267fb2a1e6f
+
+Plaintext=  828d30ab5bfb6188
+Ciphertext= 625977ce6d72e2b0
+
+Plaintext=  a8f291fb1eb4e1ee
+Ciphertext= 9e7314d04005c813
+
+Plaintext=  d03e2f5f558c00d8
+Ciphertext= e24fbbd45e6727ee
+
+Plaintext=  e3084120deeb8bfe
+Ciphertext= dac42e217ed3efb3
+
+Plaintext=  908429b36a896a45
+Ciphertext= 7ada8b3bcf6d3d01
+
+Plaintext=  d624e79372cc18df
+Ciphertext= c3c00575f65549d2
+
+Plaintext=  37db2d20c9726d4f
+Ciphertext= 356bcfa8d18ddf47
+
+Plaintext=  ef7becf220138b53
+Ciphertext= 6f0d9c0259ecb7e7
+
+Plaintext=  bc54c2da461a9955
+Ciphertext= 7be9827153abae9a
+
+Plaintext=  aff33f2f93dd9646
+Ciphertext= 34b79998aff32916
+
+Plaintext=  4bf3e883fc5750bd
+Ciphertext= 900be29bf862ad22
+
+Plaintext=  be79bc2f82427f41
+Ciphertext= 4690240430910ee5
+
+Plaintext=  de42659ac4b111d7
+Ciphertext= 5ae30c5a935177d4
+
+Plaintext=  cef8085003469df8
+Ciphertext= 9884bd509fddf8fe
+
+Plaintext=  c9d3541480c68417
+Ciphertext= 42e70cc56b447e27
+
+Plaintext=  07ce4c8f3d003af9
+Ciphertext= 3f0b317280dd4e9d
+
+Plaintext=  82ad35c2733d0fa3
+Ciphertext= 870c87691314e5ae
+
+Plaintext=  b1ee52a6dab36203
+Ciphertext= a8fa3b440f2dd167
+
+Plaintext=  d99aec179a565b50
+Ciphertext= b6b164d3cab901d8
+
+Plaintext=  50f480235c3bc560
+Ciphertext= 5097b01e80d439c7
+
+Plaintext=  aa28ef5dd5525bfa
+Ciphertext= 0f06568dc4b15380
+
+Plaintext=  254e584a86fdbd4b
+Ciphertext= 78cf4380bcd7d283
+
+Plaintext=  cc5b56551bad0025
+Ciphertext= b61215ec6484b353
+
+Plaintext=  5cb72f806d7f3c53
+Ciphertext= a7c7d6bfdd53dc2d
+
+Plaintext=  3321b0864007afba
+Ciphertext= e3e2294021557194
+
+Plaintext=  4e0ff9638517fa8d
+Ciphertext= 910c3a86a41b7584
+
+Plaintext=  788f52766f3a28c5
+Ciphertext= 3ba67fd8eade8433
+
+Plaintext=  7c428bfdd4234aa7
+Ciphertext= dd1e65b3fb9f439c
+
+Plaintext=  60ce8044df1e1fba
+Ciphertext= 1d5f48eb21e5505d
+
+Plaintext=  58e8b1d9c5a79d2a
+Ciphertext= 5352f88bcef267e9
+
+Plaintext=  c4592fc31702f7e8
+Ciphertext= 7d9a2dffdcd9a70e
+
+Plaintext=  3351d2160c09c5ce
+Ciphertext= cc173f9b09d7066e
+
+Plaintext=  a554f2c93a61c040
+Ciphertext= 71a4f7a05dadf5b9
+
+Plaintext=  e225612df2b55090
+Ciphertext= cd1f48089c904c25
+
+Plaintext=  0b097e18638350e3
+Ciphertext= 80a36606f00e7455
+
+Plaintext=  ba15c9ad53ce1861
+Ciphertext= 9ef1a5c79eb6665e
+
+Plaintext=  3b0a947831fb5828
+Ciphertext= 49fcc65f7f5ea783
+
+Plaintext=  4f8f291a80a79099
+Ciphertext= 499455a87ba07e8a
+
+Plaintext=  c05dfa394ffc1e82
+Ciphertext= f6212fb323f3435e
+
+Plaintext=  7cef0786875e5b14
+Ciphertext= b407e211c3c73248
+
+Plaintext=  95cc8671f3a126d3
+Ciphertext= 40385f40356117c4
+
+Plaintext=  4aef9782fe8d0eb2
+Ciphertext= 4335e19899eef105
+
+Plaintext=  207f5bc585764709
+Ciphertext= 1acc7ebf7a1a0da1
+
+Plaintext=  aea129c37cc07d12
+Ciphertext= 1ef3e37dc08a6243
+
